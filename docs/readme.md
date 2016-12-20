@@ -1,4 +1,4 @@
-**GitHub page engine is http://jekyllrb.com**
+GitHub page engine is [Jekyll](http://jekyllrb.com)
 
 
 The [Community Site](http://live-openanthem.pantheonsite.io/) found here
